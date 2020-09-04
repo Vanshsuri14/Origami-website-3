@@ -1,0 +1,19 @@
+.header{
+  background-color: #ee00ee;
+  display: flex;  
+  justify-content: space-between;
+  padding: 20px;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #eeee00;
+  
+}
+.grid{
+    margin : 50px;
+    
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+}
